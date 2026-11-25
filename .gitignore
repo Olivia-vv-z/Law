@@ -1,0 +1,23 @@
+# 案件材料与产出，绝不入库
+聊天记录排序工具/输入/
+聊天记录排序工具/输出/
+聊天记录排序工具/_测试/
+pdf转md工具/输出/
+
+# 兜底：图片与 PDF 不入库
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+*.tif
+*.tiff
+*.pdf
+
+# 工具与配置
+.workbuddy/
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+*.log
